@@ -10,7 +10,7 @@ This repository documents my hands-on testing of common web application vulnerab
 - Insecure File Upload
 
 ## Lab Environment
-- OWASP AZP
+- OWASP ZAP
 - DVWA (Damn Vulnerable Web Application)
 - Kali Linux
 
